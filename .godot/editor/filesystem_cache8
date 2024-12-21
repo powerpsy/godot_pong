@@ -1,0 +1,11 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1734785626
+::res://assets/::1732311873
+Bg.png::CompressedTexture2D::32183904865087921::1732311801::1732311873::1::::<><>::
+pixel_font.ttf::FontFile::6324802177666322246::1732311801::1732311873::1::::<><>::
+::res://scenes/::1734785587
+Ball.gd::GDScript::-1::1732311801::0::1::::<>CharacterBody2D<>::
+CPU.gd::GDScript::-1::1732311801::0::1::::<>StaticBody2D<>::
+main.gd::GDScript::-1::1732830769::0::1::::<>Sprite2D<>::
+main.tscn::PackedScene::3944146068240574619::1734785587::0::1::::<><>::uid://pucgh0qbmij::::res://assets/Bg.png<>res://scenes/main.gd<>uid://cwd1tkm36irny::::res://assets/pixel_font.ttf<>res://scenes/Player.gd<>res://scenes/Ball.gd<>res://scenes/CPU.gd
+Player.gd::GDScript::-1::1732311801::0::1::::<>StaticBody2D<>::
